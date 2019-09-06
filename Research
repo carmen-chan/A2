@@ -3,10 +3,6 @@ Datasets
 Simple prediction model - like Iris flower 
 https://www.kaggle.com/ronitf/heart-disease-uci
 
-Granular day by day over 2 years
-https://www.kaggle.com/se18m502/bee-hive-metrics#weight_schwartau.csv
-
-Year by year since 1991 and compares pesticides to beeees
-https://www.kaggle.com/kevinzmith/honey-with-neonic-pesticide
-
+Problem
+Predicting if patients have heart disease
 
